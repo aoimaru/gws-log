@@ -1,0 +1,55 @@
+log:  __    _   ___  	container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1	source:stdout
+log: / /\  | | | |_) 	container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1	source:stdout
+container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1	source:stdout	log:/_/--\ |_| |_| \_ , built with Go 
+container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1	source:stdout	log:
+container_name:/gws-log_app_1	source:stdout	log:[36mwatching .	container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43
+log:[0m[36m!exclude tmp	container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1	source:stdout
+container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1	source:stdout	log:[0m[33mbuilding...
+log:[0mgo: downloading github.com/gin-gonic/gin v1.7.7	container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1	source:stdout
+container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1	source:stdout	log:go: downloading github.com/gin-contrib/sse v0.1.0
+container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1	source:stdout	log:go: downloading github.com/golang/protobuf v1.3.3
+container_name:/gws-log_app_1	source:stdout	log:go: downloading github.com/ugorji/go/codec v1.1.7	container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43
+source:stdout	log:go: downloading gopkg.in/yaml.v2 v2.2.8	container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1
+container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1	source:stdout	log:go: downloading golang.org/x/sys v0.0.0-20200116001909-b77594299b42
+container_name:/gws-log_app_1	source:stdout	log:go: downloading github.com/go-playground/validator/v10 v10.4.1	container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43
+container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1	source:stdout	log:go: downloading golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
+source:stdout	log:go: downloading github.com/go-playground/universal-translator v0.17.0	container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1
+container_name:/gws-log_app_1	source:stdout	log:go: downloading github.com/leodido/go-urn v1.2.0	container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43
+source:stdout	log:go: downloading github.com/go-playground/locales v0.13.0	container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1
+container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1	source:stdout	log:[32mrunning...
+container_name:/gws-log_app_1	source:stdout	log:[0m[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.	container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43
+source:stdout	log:	container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1
+log:[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.	container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1	source:stdout
+source:stdout	log: - using env:	export GIN_MODE=release	container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1
+source:stdout	log: - using code:	gin.SetMode(gin.ReleaseMode)	container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1
+container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1	source:stdout	log:
+container_name:/gws-log_app_1	source:stdout	log:[GIN-debug] GET    /                         --> main.main.func1 (3 handlers)	container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43
+container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1	source:stdout	log:[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+container_name:/gws-log_app_1	source:stdout	log:Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.	container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43
+log:[GIN-debug] Environment variable PORT is undefined. Using port :8080 by default	container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1	source:stdout
+log:[GIN-debug] Listening and serving HTTP on :8080	container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1	source:stdout
+container_name:/gws-log_app_1	source:stdout	log:[GIN] 2022/05/09 - 03:38:51 |[97;42m 200 [0m|        74.6µs |      172.27.0.1 |[97;44m GET     [0m "/"	container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43
+container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1	source:stdout	log:[GIN] 2022/05/09 - 03:39:19 |[97;42m 200 [0m|        32.4µs |      172.27.0.1 |[97;44m GET     [0m "/"
+source:stdout	log:[GIN] 2022/05/09 - 03:39:19 |[97;42m 200 [0m|        55.5µs |      172.27.0.1 |[97;44m GET     [0m "/"	container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1
+container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1	source:stdout	log:[GIN] 2022/05/09 - 03:39:20 |[97;42m 200 [0m|       206.6µs |      172.27.0.1 |[97;44m GET     [0m "/"
+container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1	source:stdout	log:[GIN] 2022/05/09 - 03:39:20 |[97;42m 200 [0m|        59.6µs |      172.27.0.1 |[97;44m GET     [0m "/"
+container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1	source:stdout	log:[GIN] 2022/05/09 - 03:39:20 |[97;42m 200 [0m|         150µs |      172.27.0.1 |[97;44m GET     [0m "/"
+log:[GIN] 2022/05/09 - 03:39:20 |[97;42m 200 [0m|       206.4µs |      172.27.0.1 |[97;44m GET     [0m "/"	container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1	source:stdout
+log:[GIN] 2022/05/09 - 03:39:20 |[97;42m 200 [0m|        49.6µs |      172.27.0.1 |[97;44m GET     [0m "/"	container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1	source:stdout
+log:[GIN] 2022/05/09 - 03:39:20 |[97;42m 200 [0m|        44.1µs |      172.27.0.1 |[97;44m GET     [0m "/"	container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1	source:stdout
+container_name:/gws-log_app_1	source:stdout	log:[GIN] 2022/05/09 - 03:39:20 |[97;42m 200 [0m|        38.7µs |      172.27.0.1 |[97;44m GET     [0m "/"	container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43
+container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1	source:stdout	log:[GIN] 2022/05/09 - 03:39:21 |[97;42m 200 [0m|        40.4µs |      172.27.0.1 |[97;44m GET     [0m "/"
+log:[GIN] 2022/05/09 - 03:39:21 |[97;42m 200 [0m|        49.6µs |      172.27.0.1 |[97;44m GET     [0m "/"	container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1	source:stdout
+container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1	source:stdout	log:[GIN] 2022/05/09 - 03:39:21 |[97;42m 200 [0m|        33.9µs |      172.27.0.1 |[97;44m GET     [0m "/"
+container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1	source:stdout	log:[GIN] 2022/05/09 - 03:39:21 |[97;42m 200 [0m|        61.9µs |      172.27.0.1 |[97;44m GET     [0m "/"
+container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1	source:stdout	log:[GIN] 2022/05/09 - 03:39:21 |[97;42m 200 [0m|         162µs |      172.27.0.1 |[97;44m GET     [0m "/"
+container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1	source:stdout	log:[GIN] 2022/05/09 - 03:39:21 |[97;42m 200 [0m|        57.2µs |      172.27.0.1 |[97;44m GET     [0m "/"
+container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1	source:stdout	log:[GIN] 2022/05/09 - 03:39:22 |[97;42m 200 [0m|        41.4µs |      172.27.0.1 |[97;44m GET     [0m "/"
+container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1	source:stdout	log:[GIN] 2022/05/09 - 03:39:22 |[97;42m 200 [0m|        37.7µs |      172.27.0.1 |[97;44m GET     [0m "/"
+log:[GIN] 2022/05/09 - 03:39:22 |[97;42m 200 [0m|        29.3µs |      172.27.0.1 |[97;44m GET     [0m "/"	container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1	source:stdout
+container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1	source:stdout	log:[GIN] 2022/05/09 - 03:39:22 |[97;42m 200 [0m|        39.6µs |      172.27.0.1 |[97;44m GET     [0m "/"
+log:[GIN] 2022/05/09 - 03:39:22 |[97;42m 200 [0m|        69.3µs |      172.27.0.1 |[97;44m GET     [0m "/"	container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1	source:stdout
+container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1	source:stdout	log:[GIN] 2022/05/09 - 03:39:23 |[97;42m 200 [0m|        48.1µs |      172.27.0.1 |[97;44m GET     [0m "/"
+container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1	source:stdout	log:[35mcleaning...
+container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1	source:stdout	log:[0m[35msee you again~
+container_id:bbfb3825248defa4cf4ad0f4ad5e5c1479c88310d4836cca38e8e43f30dc3b43	container_name:/gws-log_app_1	source:stdout	log:[0m	partial_message:true	partial_id:e80a7c9e110f8f92ba0a4822ffde927cc1c770019978c2d03a623d84913e83d9	partial_ordinal:1	partial_last:false
